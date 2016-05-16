@@ -138,6 +138,7 @@
     "wrap-iife": [2, "any"],
     "yield-star-spacing": [2, "both"],
     "yoda": [2, "never"],
+    "complexity": [2, { "max": 2 }],
 
     "standard/object-curly-even-spacing": [2, "either"],
     "standard/array-bracket-even-spacing": [2, "either"],
